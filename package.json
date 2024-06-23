@@ -2,30 +2,37 @@
   "name": "rajendras-toolbox",
   "displayName": "Rajendra's Toolbox",
   "description": "UI, Hardware, Firmware design toolbox",
-  "version": "0.0.1",
+  "publisher": "rajendra-khope",
+  "license": "SEE LICENSE IN LICENSE.txt",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bkrajendra/rajendras-toolbox"
+  },
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.90.0"
   },
   "categories": [
     "Extension Packs"
   ],
-  "extensionPack": [ 
-    "angular.ng-template", 
-    "eamodio.gitlens", 
-    "esbenp.prettier-vscode", 
-    "george-alisson.html-preview-vscode", 
-    "github.copilot", 
-    "github.copilot-chat", 
-    "github.vscode-github-actions", 
-    "johnpapa.angular2", 
-    "ms-azuretools.vscode-docker", 
-    "ms-python.debugpy", 
-    "ms-python.python", 
-    "ms-python.vscode-pylance", 
-    "ms-vscode.cpptools", 
-    "pkief.material-icon-theme", 
-    "platformio.platformio-ide", 
-    "streetsidesoftware.code-spell-checker", 
+  "extensionPack": [
+    "angular.ng-template",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "george-alisson.html-preview-vscode",
+    "github.copilot",
+    "github.copilot-chat",
+    "github.vscode-github-actions",
+    "johnpapa.angular2",
+    "ms-azuretools.vscode-docker",
+    "ms-python.debugpy",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-vscode.cpptools",
+    "pkief.material-icon-theme",
+    "platformio.platformio-ide",
+    "streetsidesoftware.code-spell-checker",
     "wokwi.wokwi-vscode"
   ]
 }
