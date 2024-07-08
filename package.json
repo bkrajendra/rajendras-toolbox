@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/bkrajendra/rajendras-toolbox"
   },
-  "version": "0.0.2",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -18,7 +18,14 @@
   ],
   "extensionPack": [
     "angular.ng-template",
+    "alexiv.vscode-angular2-files",
+    "dbaeumer.vscode-eslint",
+    "shengchen.vscode-checkstyle",
+    "redhat.vscode-xml",
+    "redhat.vscode-yaml",
     "eamodio.gitlens",
+    "usernamehw.errorlens",
+    "rubbersheep.gi",
     "esbenp.prettier-vscode",
     "george-alisson.html-preview-vscode",
     "github.copilot",
@@ -34,6 +41,9 @@
     "platformio.platformio-ide",
     "streetsidesoftware.code-spell-checker",
     "wokwi.wokwi-vscode",
-    "codemod.codemod-vscode-extension"
+    "codemod.codemod-vscode-extension",
+    "foxundermoon.shell-format",
+    "aaron-bond.better-comments",
+    "mariusalchimavicius.json-to-ts"
   ]
 }
