@@ -33,6 +33,7 @@
     "pkief.material-icon-theme",
     "platformio.platformio-ide",
     "streetsidesoftware.code-spell-checker",
-    "wokwi.wokwi-vscode"
+    "wokwi.wokwi-vscode",
+    "codemod.codemod-vscode-extension"
   ]
 }
